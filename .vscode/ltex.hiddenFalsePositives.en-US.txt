@@ -1,0 +1,6 @@
+{"rule":"EN_UNPAIRED_QUOTES","sentence":"^\\QПавлочев \n\"\\E(?:Dummy|Ina|Jimmy-|Dummy-|Maniquí-|Maniquíes-)[0-9]+\\Q 2025 г.\\E$"}
+{"rule":"EN_UNPAIRED_QUOTES","sentence":"^\\QПетренко \n\"\\E(?:Dummy|Ina|Jimmy-|Dummy-|Maniquí-|Maniquíes-)[0-9]+\\Q 2025 г.\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QК.\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QА.\\E$"}
+{"rule":"UNLIKELY_OPENING_PUNCTUATION","sentence":"^\\Q]\\E$"}
+{"rule":"UNLIKELY_OPENING_PUNCTUATION","sentence":"^\\Q]\n\\E(?:Dummy|Ina|Jimmy-|Dummy-|Maniquí-|Maniquíes-)[0-9]+\\Q\nFunctional languages achieve parametric polymorphism largely by way of type erasure.\\E$"}
